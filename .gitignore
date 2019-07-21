@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/xd
+xd.so
+xd.dylib
+xd.dll
+xd.a
+xd.lib
+xd-test-*
+*.exe
+*.o
+*.obj
+*.lst
